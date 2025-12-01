@@ -92,7 +92,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/bawfng04/DADN-SmartGreenhouseSystem.git
+git clone https://github.com/nnn27072005/DADN.git
 cd DADN-SmartGreenhouseSystem
 ```
 
